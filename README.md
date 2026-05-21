@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🟢 User Funnel Analysis — SQL Portfolio Project
 
 > **Resume line:** *"Analyzed user conversion funnel across 5 onboarding steps, identifying a 40% drop-off at email verification using SQL aggregations and JOINs."*
@@ -115,3 +116,7 @@ See [`docs/findings.md`](docs/findings.md) for a sample write-up of the results 
 ---
 
 *Built as part of a SQL portfolio series focused on product analytics.*
+=======
+# User-Funnel-Analysis
+This project tracks how users move through a 5-step signup/onboarding flow and identifies where they drop off. It simulates a real-world product analytics task commonly done at tech companies using tools like Mixpanel, Amplitude, or internal data warehouses.
+>>>>>>> d1c8cbe41db73065631c463e2b92fc80c88ff258
